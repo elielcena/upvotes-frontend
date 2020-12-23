@@ -18,5 +18,5 @@ Aplicação onde textos possam ser postados de forma livre e, estes textos, poss
 **Clone o projeto e acesse o diretório /upvotes-frontend e inicie o projeto, conforme o comando abaixo**
 
 ```bash
-$ git clone https://github.com/elielcena/upvotes-frontend.git && cd "upvotes-frontend" && yarn start
+$ git clone https://github.com/elielcena/upvotes-frontend.git && cd "upvotes-frontend" && yarn && yarn start
 ```
