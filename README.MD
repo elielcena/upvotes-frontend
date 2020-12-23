@@ -9,6 +9,10 @@ Aplicação onde textos possam ser postados de forma livre e, estes textos, poss
 
 - [React](https://pt-br.reactjs.org/docs/getting-started.html)
 
+### Pré-Requisitos
+
+- [UpVotes Backend](https://github.com/elielcena/upvotes-backend)
+
 ## 💻 Iniciando
 
 **Clone o projeto e acesse o diretório /upvotes-frontend e inicie o projeto, conforme o comando abaixo**
