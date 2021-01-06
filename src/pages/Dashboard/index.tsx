@@ -181,7 +181,9 @@ const Dashboard: React.FC = () => {
   }, []);
 
   const dataSelected = () => {
-    return `${yearSelectedFormated()}-${monthSelected}-${daySelected}`;
+    return `${yearSelectedFormated()}-${
+      monthSelected < 10 ? '0' + monthSelected : monthSelected
+    }-${daySelected < 10 ? '0' + daySelected : daySelected}`;
   };
 
   const yearSelectedFormated = () => {
